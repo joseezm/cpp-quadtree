@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\Asus\source\repos\QTree\CGOpenGLExample\Main.cpp(21,17): warning C4244:  'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Asus\source\repos\QTree\CGOpenGLExample\Main.cpp(21,14): warning C4244:  'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Asus\source\repos\QTree\CGOpenGLExample\Main.cpp(107,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Asus\source\repos\QTree\CGOpenGLExample\Main.cpp(112,17): warning C4244:  'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Asus\source\repos\QTree\CGOpenGLExample\Main.cpp(112,14): warning C4244:  'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  CGOpenGLExample.vcxproj -> C:\Users\Asus\source\repos\QTree\Debug\CGOpenGLExample.exe
